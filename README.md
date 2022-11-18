@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vishnujayadhar
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning front-end-web-development
+- 👋 Hi, I’m Vishnu
+- 👀 I’m interested in developing applications
+- 🌱 I’m a Java developer
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me ...
 
