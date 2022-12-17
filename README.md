@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishnu
 - 👀 I’m interested in developing applications
-- 🌱 I’m a Java developer
+- 🌱 I’m a Full stack java developer
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me ...
 
